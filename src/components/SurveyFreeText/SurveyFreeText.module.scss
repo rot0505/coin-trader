@@ -1,0 +1,12 @@
+.div {
+  display: flex;
+  flex-direction: column;
+
+  .item {
+    background-color: red;
+    margin: 5px;
+    border-radius: 8px;
+    padding: 8px 16px;
+    color: white;
+  }
+}
